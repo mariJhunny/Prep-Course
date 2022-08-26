@@ -1,0 +1,25 @@
+body{
+    background: url(https://img.freepik.com/foto-gratis/confeti-estrella-brillante-sobre-fondo-acuarela-pastel-abstracto-colorido_53876-98173.jpg);
+    background-size: cover;
+
+    display:flex;
+    justify-content: center;
+        align-items: center;
+}
+h1{
+    color: red;
+}
+img{
+    width: 400px;
+}
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: aquamarine;
+    padding: 50px;
+    border: 10px solid blue;
+}
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
